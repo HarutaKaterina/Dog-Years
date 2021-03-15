@@ -1,6 +1,6 @@
-//am setat  variabila constanta pentru kelvin
+//am setat  variabila constant pentru kelvin
 const kelvin = 293;
-// am setat  variabila constanta pentru celsius
+// am setat  variabila constant pentru celsius
 const celsius = kelvin - 273;
 //am convertit in fahrenheit
 let fahrenheit = celsius * (9 / 5) + 32;
