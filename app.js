@@ -2,7 +2,7 @@
 const kelvin = 293;
 // am setat  variabila constant pentru celsius
 const celsius = kelvin - 273;
-//am convertit in fahrenheit
+//am convertit in Fahrenheit
 let fahrenheit = celsius * (9 / 5) + 32;
 //rotungesc
 fahrenheit = Math.floor(fahrenheit);
