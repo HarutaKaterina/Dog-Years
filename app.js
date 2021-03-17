@@ -8,3 +8,4 @@ console.log(laterYears);
 let myAgeInDogYears = earlyYears + laterYears;// aflam anii mei dog years
 let myName = 'Katerina'.toLowerCase();
 console.log(`My name is ${myName}. I am ${myAge} years old in human years wich is ${myAgeInDogYears} years old in dog years.`);
+
